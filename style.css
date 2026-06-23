@@ -147,10 +147,10 @@ section#my-work {
   width: 100%;
   object-fit: cover;
   border-radius: .5em;
-  transition: transform 0.2s ease;
+  transition: transform 0.25s ease;
 }
 
-.grid-containter img:hover {
+.grid-containter a:hover img {
  transform: scale(1.05);
 }
 
