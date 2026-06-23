@@ -193,7 +193,7 @@ footer a:hover {
   text-decoration: underline;
 }
 
-@media(max-width: 988px){
+@media(max-width: 900px){
   header {
     text-align: center;
   }
@@ -203,7 +203,7 @@ footer a:hover {
   }
 }
 
-@media(max-widith: 900px) {
+@media(max-widith: 226px) {
   nav li {
     display: none;
   }
